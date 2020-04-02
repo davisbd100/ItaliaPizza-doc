@@ -1,0 +1,32 @@
+﻿<Window x:Class="PrototiposItaliaPizza.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrototiposItaliaPizza"
+        mc:Ignorable="d"
+        Title="ITALIA PIZZA" Height="680" Width="1280" Icon="LogoItaliaPizza.png" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="FondoInicioPizza.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="501.153" Margin="683.899,54.066,0,0" VerticalAlignment="Top" Width="343.987">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="#FFC3CCD4" Opacity="0.4"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Image HorizontalAlignment="Left" Height="154.202" Margin="781.757,80.754,0,0" VerticalAlignment="Top" Width="148.271" Source="LogoItaliaPizza.png"/>
+        <Label Content="INICIAR SESIÓN" HorizontalAlignment="Left" Margin="770.632,246.067,0,0" VerticalAlignment="Top" FontFamily="Candara" FontSize="24" FontWeight="Bold" Foreground="White"/>
+        <Label Content="Nombre de usuario:" HorizontalAlignment="Left" Margin="727.868,290.363,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="White" FontSize="24" FontFamily="Calibri Light"/>
+        <TextBox HorizontalAlignment="Left" Margin="723.42,329.66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="264.433" FontFamily="Calibri Light" FontSize="22"/>
+        <Label Content="Contraseña:" HorizontalAlignment="Left" Margin="723.42,386.727,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="White" FontSize="24" FontFamily="Calibri Light"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="723.42,426.587,0,0" VerticalAlignment="Top" Width="264.433" Height="29"/>
+        <Button Content="INICIAR" HorizontalAlignment="Left" Height="35.584" Margin="781.757,484.791,0,0" VerticalAlignment="Top" Width="148.271" Background="#FF008050" BorderBrush="{x:Null}" Foreground="White" FontFamily="Calibri Light" FontSize="20"/>
+        <Button Content="" HorizontalAlignment="Left" Height="29.563" Margin="953.751,426.024,0,0" VerticalAlignment="Top" Width="34.102" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="VerContraseñaInicio.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

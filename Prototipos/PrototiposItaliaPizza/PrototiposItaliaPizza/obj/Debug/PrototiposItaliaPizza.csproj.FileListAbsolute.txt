@@ -1,0 +1,15 @@
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\bin\Debug\PrototiposItaliaPizza.exe.config
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\bin\Debug\PrototiposItaliaPizza.exe
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\bin\Debug\PrototiposItaliaPizza.pdb
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\PrototiposItaliaPizza.csprojAssemblyReference.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\MainWindow.g.cs
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\App.g.cs
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\PrototiposItaliaPizza_MarkupCompile.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\PrototiposItaliaPizza_MarkupCompile.lref
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\MainWindow.baml
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\PrototiposItaliaPizza.g.resources
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\PrototiposItaliaPizza.Properties.Resources.resources
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\PrototiposItaliaPizza.csproj.GenerateResource.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\PrototiposItaliaPizza.csproj.CoreCompileInputs.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\PrototiposItaliaPizza.exe
+C:\Users\galil\OneDrive\Documentos\GitHub\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\PrototiposItaliaPizza.pdb
