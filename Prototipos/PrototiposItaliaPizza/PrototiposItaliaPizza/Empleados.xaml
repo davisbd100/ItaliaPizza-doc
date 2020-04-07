@@ -1,0 +1,61 @@
+﻿<Window x:Class="PrototiposItaliaPizza.Empleados"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrototiposItaliaPizza"
+        mc:Ignorable="d"
+        Title="Empleados" Height="680" Width="1280" Icon="LogoItaliaPizza.png" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="FondoPrincipal.png"/>
+        </Grid.Background>
+        <Rectangle Fill="#FFF4A643" HorizontalAlignment="Left" Height="87.021" Margin="0,26.732,0,0" Stroke="#FFF4A643" VerticalAlignment="Top" Width="1003.332"/>
+        <Label Content="Empleados" HorizontalAlignment="Left" Margin="121.252,10,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="72" Foreground="White"/>
+        <Button Content="" HorizontalAlignment="Left" Height="39.111" Margin="75.363,51.334,0,0" VerticalAlignment="Top" Width="40.889" BorderBrush="{x:Null}" RenderTransformOrigin="0.611,0.741">
+            <Button.Background>
+                <ImageBrush ImageSource="Regresar.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Height="87.021" Margin="623,26.732,0,0" VerticalAlignment="Top" Width="113.333" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Empleado.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Label Content="NUEVO" HorizontalAlignment="Left" Margin="653.999,86.586,0,0" VerticalAlignment="Top" FontFamily="Calibri" FontSize="14" Background="{x:Null}" Foreground="White"/>
+        <Button Content="" HorizontalAlignment="Left" Height="87.11" Margin="741.333,26.732,0,0" VerticalAlignment="Top" Width="113.333" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Editar.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Height="86.944" Margin="854.666,26.732,0,0" VerticalAlignment="Top" Width="113.333" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Eliminar.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Label Content="EDITAR" HorizontalAlignment="Left" Margin="770.541,86.752,0,0" VerticalAlignment="Top" FontFamily="Calibri" FontSize="14" Background="{x:Null}" Foreground="White" RenderTransformOrigin="2.863,0.727"/>
+        <Label Content="ELIMINAR" HorizontalAlignment="Left" Margin="878.211,86.328,0,0" VerticalAlignment="Top" FontFamily="Calibri" FontSize="14" Background="{x:Null}" Foreground="White" RenderTransformOrigin="2.863,0.727"/>
+        <Ellipse Fill="#FFF4A643" HorizontalAlignment="Left" Height="87.021" Margin="958.667,26.732,0,0" Stroke="#FFF4A643" VerticalAlignment="Top" Width="92"/>
+        <ListView HorizontalAlignment="Left" Height="358" Margin="75.363,244,0,0" VerticalAlignment="Top" Width="1112.304">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Rectangle HorizontalAlignment="Left" Height="49.035" Margin="0,147.397,0,0" VerticalAlignment="Top" Width="1273.333">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="#FFC3CCD4" Opacity="0.7"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBox HorizontalAlignment="Left" Margin="153.03,159.397,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Ingresa el nombre a buscar" FontFamily="Calibri Light" FontSize="20" Width="700" Foreground="#FFC3CCD4"/>
+        <Label Content="Buscar:" HorizontalAlignment="Left" Margin="75.363,156.019,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Calibri Light" FontSize="20"/>
+        <ComboBox HorizontalAlignment="Left" Height="26.31" Margin="852.167,159.5,0,0" VerticalAlignment="Top" Width="173"/>
+        <Button Content="" HorizontalAlignment="Left" Height="26.31" Margin="820.833,159.5,0,0" VerticalAlignment="Top" Width="31.334" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Buscar.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

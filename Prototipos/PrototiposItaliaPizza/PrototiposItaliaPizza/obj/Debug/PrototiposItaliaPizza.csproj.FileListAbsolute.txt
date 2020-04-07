@@ -36,3 +36,5 @@ C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Protot
 C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\bin\Debug\MaterialDesignThemes.Wpf.pdb
 C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\bin\Debug\MaterialDesignThemes.Wpf.xml
 C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\PrototiposItaliaPizza.csproj.CopyComplete
+C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\Empleados.g.cs
+C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\Empleados.baml
