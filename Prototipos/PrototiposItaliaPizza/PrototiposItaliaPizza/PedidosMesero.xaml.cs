@@ -17,9 +17,9 @@ namespace PrototiposItaliaPizza
     /// <summary>
     /// Lógica de interacción para Pedidos___mesero.xaml
     /// </summary>
-    public partial class Pedidos___mesero : Window
+    public partial class PedidosMesero : Window
     {
-        public Pedidos___mesero()
+        public PedidosMesero()
         {
             InitializeComponent();
         }

@@ -14,7 +14,7 @@
             <ColumnDefinition Width="26*"/>
             <ColumnDefinition Width="23*"/>
         </Grid.ColumnDefinitions>
-        <Rectangle HorizontalAlignment="Left" Height="87.021" Margin="121,26.732,0,0" VerticalAlignment="Top" Width="1003.332" Grid.ColumnSpan="2">
+        <Rectangle HorizontalAlignment="Left" Height="87.021" Margin="121,26.732,0,0" VerticalAlignment="Top" Width="1083.877" Grid.ColumnSpan="2">
             <Rectangle.Fill>
                 <SolidColorBrush Color="#FFB31423" Opacity="0.8"/>
             </Rectangle.Fill>
@@ -25,7 +25,7 @@
                 <SolidColorBrush Color="White" Opacity="0.8"/>
             </Rectangle.Fill>
         </Rectangle>
-        <Image HorizontalAlignment="Left" Height="87.021" Margin="399.772,26.732,0,0" VerticalAlignment="Top" Width="97.011" Source="Pedidos.png" RenderTransformOrigin="0.579,0.373" Grid.Column="1"/>
+        <Image HorizontalAlignment="Left" Height="74.443" Margin="333.411,33.043,0,0" VerticalAlignment="Top" Width="80.011" Source="Pedidos.png" RenderTransformOrigin="0.579,0.373" Grid.Column="1"/>
         <Image HorizontalAlignment="Left" Height="80.603" Margin="163.001,203.397,0,0" VerticalAlignment="Top" Width="138.666" Source="FondoInicioPizza.jpg"/>
         <Button Content="$000.00" HorizontalAlignment="Left" Height="35.334" Margin="163.001,300.064,0,0" VerticalAlignment="Top" Width="138.666" Background="#FF008050" BorderBrush="#FF008050" Foreground="White" FontFamily="Calibri Light" FontSize="22"/>
         <Rectangle HorizontalAlignment="Left" Height="724.666" Stroke="White" VerticalAlignment="Top" Width="120.001" Margin="0,0,0,-73.333">
@@ -118,6 +118,7 @@
         <Label Content="PASTA" HorizontalAlignment="Left" Margin="43.942,333.081,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8" Background="{x:Null}"/>
         <Label Content="POSTRES / HELADO" HorizontalAlignment="Left" Margin="19.266,406.397,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8" Background="{x:Null}"/>
         <Label Content="BEBIDAS" HorizontalAlignment="Left" Margin="42.278,478.397,0,0" VerticalAlignment="Top" Foreground="White" FontSize="8" Background="{x:Null}"/>
+        <Image HorizontalAlignment="Left" Height="74.443" Margin="429.199,33.043,0,0" VerticalAlignment="Top" Width="74.788" Source="Mesa.png" RenderTransformOrigin="0.579,0.373" Grid.Column="1"/>
 
     </Grid>
 </Window>
