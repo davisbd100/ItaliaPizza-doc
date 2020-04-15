@@ -72,11 +72,20 @@
     <Compile Include="DarDeBajaEmpleado.xaml.cs">
       <DependentUpon>DarDeBajaEmpleado.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DarDeBajaProducto.xaml.cs">
+      <DependentUpon>DarDeBajaProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DarDeBajaProductoConReceta.xaml.cs">
+      <DependentUpon>DarDeBajaProductoConReceta.xaml</DependentUpon>
+    </Compile>
     <Compile Include="EditarCliente.xaml.cs">
       <DependentUpon>EditarCliente.xaml</DependentUpon>
     </Compile>
     <Compile Include="EditarEmpleado.xaml.cs">
       <DependentUpon>EditarEmpleado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EditarProducto.xaml.cs">
+      <DependentUpon>EditarProducto.xaml</DependentUpon>
     </Compile>
     <Compile Include="Productos.xaml.cs">
       <DependentUpon>Productos.xaml</DependentUpon>
@@ -102,11 +111,23 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="DarDeBajaProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DarDeBajaProductoConReceta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="EditarCliente.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="EditarEmpleado.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EditarProducto.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
