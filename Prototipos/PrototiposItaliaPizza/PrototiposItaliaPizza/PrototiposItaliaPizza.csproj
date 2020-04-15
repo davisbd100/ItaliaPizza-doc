@@ -66,6 +66,9 @@
     <Compile Include="Clientes.xaml.cs">
       <DependentUpon>Clientes.xaml</DependentUpon>
     </Compile>
+    <Compile Include="EditarCliente.xaml.cs">
+      <DependentUpon>EditarCliente.xaml</DependentUpon>
+    </Compile>
     <Compile Include="EditarEmpleado.xaml.cs">
       <DependentUpon>EditarEmpleado.xaml</DependentUpon>
     </Compile>
@@ -76,6 +79,10 @@
       <DependentUpon>RegistrarEmpleado.xaml</DependentUpon>
     </Compile>
     <Page Include="Clientes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EditarCliente.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
