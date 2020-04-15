@@ -63,6 +63,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="RegistrarEmpleado.xaml.cs">
+      <DependentUpon>RegistrarEmpleado.xaml</DependentUpon>
+    </Compile>
     <Page Include="Empleados.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -91,6 +94,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="PedidosMesero.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegistrarEmpleado.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -131,11 +138,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Recursos\FondoInicioPizza.jpg" />
-    <Resource Include="Recursos\LogoItaliaPizza.png" />
-    <Resource Include="Recursos\VerContraseñaInicio.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="FondoInicioPizza.jpg" />
