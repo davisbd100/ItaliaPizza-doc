@@ -11,7 +11,7 @@
         <Label Content="Editar cliente" HorizontalAlignment="Left" Margin="140.252,10,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="48" Foreground="White" Background="{x:Null}"/>
         <Button Content="" HorizontalAlignment="Left" Height="73.597" Margin="67.919,10,0,0" VerticalAlignment="Top" Width="72.333" BorderBrush="{x:Null}">
             <Button.Background>
-                <ImageBrush ImageSource="Empleado.png" Stretch="Uniform"/>
+                <ImageBrush ImageSource="Editar.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
         <Label Content="Nombre:" HorizontalAlignment="Left" Margin="82.891,129.767,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF707880" FontSize="20"/>
