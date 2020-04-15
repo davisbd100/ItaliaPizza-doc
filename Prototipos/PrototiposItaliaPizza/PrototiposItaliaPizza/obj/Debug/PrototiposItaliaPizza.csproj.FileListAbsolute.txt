@@ -54,3 +54,5 @@ C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Protot
 C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\EditarCliente.baml
 C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\DarDeBajaEmpleado.g.cs
 C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\DarDeBajaEmpleado.baml
+C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\DarDeBajaCliente.g.cs
+C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\DarDeBajaCliente.baml
