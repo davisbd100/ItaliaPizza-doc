@@ -23,7 +23,7 @@
         <Label Content="Productos" HorizontalAlignment="Left" Margin="250.252,10,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="72" Foreground="White" Height="132.397" Width="253.143" Background="{x:Null}"/>
         <Button Content="" HorizontalAlignment="Left" Height="87.021" Margin="752,26.732,0,0" VerticalAlignment="Top" Width="113.333" BorderBrush="{x:Null}">
             <Button.Background>
-                <ImageBrush ImageSource="Empleado.png" Stretch="Uniform"/>
+                <ImageBrush ImageSource="Producto.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
         <Label Content="NUEVO" HorizontalAlignment="Left" Margin="782.999,86.586,0,0" VerticalAlignment="Top" FontFamily="Calibri" FontSize="14" Background="{x:Null}" Foreground="White" Height="27.09" Width="51.887"/>
