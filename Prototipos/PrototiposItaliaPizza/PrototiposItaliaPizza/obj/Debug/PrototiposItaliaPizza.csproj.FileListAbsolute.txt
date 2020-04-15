@@ -46,3 +46,5 @@ C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Protot
 C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\RegistrarEmpleado.baml
 C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\EditarEmpleado.g.cs
 C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\EditarEmpleado.baml
+C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\Clientes.g.cs
+C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\Clientes.baml
