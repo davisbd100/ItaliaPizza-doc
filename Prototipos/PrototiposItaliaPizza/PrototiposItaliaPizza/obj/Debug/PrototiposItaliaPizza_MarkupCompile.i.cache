@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\
+C:\Users\bestr\Desktop\Repositorios\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\
 PrototiposItaliaPizza
 none
 false
 DEBUG;TRACE
-C:\Users\galil\OneDrive\Documentos\GitHub\Doc-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\App.xaml
-121598799995
+C:\Users\bestr\Desktop\Repositorios\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\App.xaml
+19-422346991
 
-17-1987426162
-15652424391
-Clientes.xaml;DarDeBajaCliente.xaml;DarDeBajaEmpleado.xaml;EditarCliente.xaml;EditarEmpleado.xaml;Empleados.xaml;MainWindow.xaml;Pedido.xaml;PedidosCallCenter.xaml;PedidosMesero.xaml;RegistrarCliente.xaml;RegistrarEmpleado.xaml;
+24-72576837
+15-1629857524
+Clientes.xaml;CancelarPedido.xaml;DarDeBajaCliente.xaml;DarDeBajaEmpleado.xaml;DarDeBajaProducto.xaml;DarDeBajaProductoConReceta.xaml;EditarPedido.xaml;EditarCliente.xaml;EditarEmpleado.xaml;EditarProducto.xaml;Empleados.xaml;MainWindow.xaml;Pedido.xaml;PedidosCallCenter.xaml;PedidosMesero.xaml;Productos.xaml;RegistrarCliente.xaml;RegistrarEmpleado.xaml;RegistrarProducto.xaml;
 
 True
 
