@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 c:\Users\bestr\Desktop\Repositorios\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\App.xaml
-17791579925
+23-1454565928
 
-222124287110
+27-1521466339
 15863486366
-Clientes.xaml;DarDeBajaCliente.xaml;DarDeBajaEmpleado.xaml;DarDeBajaProducto.xaml;DarDeBajaProductoConReceta.xaml;EditarCliente.xaml;EditarEmpleado.xaml;EditarProducto.xaml;Empleados.xaml;MainWindow.xaml;Pedido.xaml;PedidosCallCenter.xaml;PedidosMesero.xaml;Productos.xaml;RegistrarCliente.xaml;RegistrarEmpleado.xaml;RegistrarProducto.xaml;
+Clientes.xaml;CancelarPedido.xaml;DarDeBajaCliente.xaml;DarDeBajaEmpleado.xaml;DarDeBajaProducto.xaml;DarDeBajaProductoConReceta.xaml;EditarPedido.xaml;EditarCliente.xaml;EditarEmpleado.xaml;EditarProducto.xaml;ReporteInventario.xaml;Empleados.xaml;ListaPedidoCocinero.xaml;MainWindow.xaml;ListaPedidoVendedor.xaml;Pedido.xaml;PedidosCallCenter.xaml;PedidosMesero.xaml;Productos.xaml;RegistrarCliente.xaml;RegistrarEmpleado.xaml;RegistrarProducto.xaml;Simple Styles.xaml;
 
 True
 
