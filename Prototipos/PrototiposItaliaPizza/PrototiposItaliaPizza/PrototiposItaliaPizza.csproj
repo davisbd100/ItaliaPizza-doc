@@ -90,6 +90,12 @@
     <Compile Include="Productos.xaml.cs">
       <DependentUpon>Productos.xaml</DependentUpon>
     </Compile>
+    <Compile Include="RecetasCocinero.xaml.cs">
+      <DependentUpon>RecetasCocinero.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RecetasGerente.xaml.cs">
+      <DependentUpon>RecetasGerente.xaml</DependentUpon>
+    </Compile>
     <Compile Include="RegistrarCliente.xaml.cs">
       <DependentUpon>RegistrarCliente.xaml</DependentUpon>
     </Compile>
@@ -98,6 +104,12 @@
     </Compile>
     <Compile Include="RegistrarProducto.xaml.cs">
       <DependentUpon>RegistrarProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarReceta.xaml.cs">
+      <DependentUpon>RegistrarReceta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarRecetaProductos.xaml.cs">
+      <DependentUpon>RegistrarRecetaProductos.xaml</DependentUpon>
     </Compile>
     <Page Include="Clientes.xaml">
       <SubType>Designer</SubType>
@@ -166,6 +178,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="RecetasCocinero.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RecetasGerente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="RegistrarCliente.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -175,6 +195,14 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="RegistrarProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegistrarReceta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegistrarRecetaProductos.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
