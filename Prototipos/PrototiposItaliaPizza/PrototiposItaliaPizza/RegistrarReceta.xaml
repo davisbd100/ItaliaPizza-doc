@@ -9,10 +9,10 @@
     <ScrollViewer>
         <Grid>
             <Rectangle HorizontalAlignment="Left" Height="69.021" Margin="0,14.576,0,0" VerticalAlignment="Top" Width="861.457" Fill="#FFB31423"/>
-            <Label Content="Registrar producto" HorizontalAlignment="Left" Margin="181.695,10,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="48" Foreground="White" Background="{x:Null}"/>
-            <Button Content="" HorizontalAlignment="Left" Height="73.597" Margin="84.836,10,0,0" VerticalAlignment="Top" Width="72.333" BorderBrush="{x:Null}">
+            <Label Content="Registrar Receta" HorizontalAlignment="Left" Margin="314.695,10,0,0" VerticalAlignment="Top" FontFamily="Gabriola" FontSize="48" Foreground="White" Background="{x:Null}"/>
+            <Button Content="" HorizontalAlignment="Left" Height="73.597" Margin="196.836,10,0,0" VerticalAlignment="Top" Width="72.333" BorderBrush="{x:Null}">
                 <Button.Background>
-                    <ImageBrush ImageSource="Producto.png" Stretch="Uniform"/>
+                    <ImageBrush ImageSource="Receta.png" Stretch="Uniform"/>
                 </Button.Background>
             </Button>
 
