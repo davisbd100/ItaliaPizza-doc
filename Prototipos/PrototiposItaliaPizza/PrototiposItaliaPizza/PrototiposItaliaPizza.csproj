@@ -81,6 +81,9 @@
     <Compile Include="DarDeBajaProductoConReceta.xaml.cs">
       <DependentUpon>DarDeBajaProductoConReceta.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ImprimirReporte.xaml.cs">
+      <DependentUpon>ImprimirReporte.xaml</DependentUpon>
+    </Compile>
     <Compile Include="EditarPedido.xaml.cs">
       <DependentUpon>EditarPedido.xaml</DependentUpon>
     </Compile>
@@ -92,6 +95,12 @@
     </Compile>
     <Compile Include="EditarProducto.xaml.cs">
       <DependentUpon>EditarProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InventarioFinal.xaml.cs">
+      <DependentUpon>InventarioFinal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InventarioActual.xaml.cs">
+      <DependentUpon>InventarioActual.xaml</DependentUpon>
     </Compile>
     <Compile Include="ReporteInventario.xaml.cs">
       <DependentUpon>ReporteInventario.xaml</DependentUpon>
@@ -138,6 +147,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ImprimirReporte.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="EditarPedido.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -153,6 +166,14 @@
     <Page Include="EditarProducto.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InventarioFinal.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="InventarioActual.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="ReporteInventario.xaml">
       <Generator>MSBuild:Compile</Generator>
