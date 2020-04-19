@@ -78,6 +78,9 @@
     <Compile Include="DarDeBajaProductoConReceta.xaml.cs">
       <DependentUpon>DarDeBajaProductoConReceta.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DarDeBajaReceta.xaml.cs">
+      <DependentUpon>DarDeBajaReceta.xaml</DependentUpon>
+    </Compile>
     <Compile Include="EditarCliente.xaml.cs">
       <DependentUpon>EditarCliente.xaml</DependentUpon>
     </Compile>
@@ -86,6 +89,9 @@
     </Compile>
     <Compile Include="EditarProducto.xaml.cs">
       <DependentUpon>EditarProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EditarReceta.xaml.cs">
+      <DependentUpon>EditarReceta.xaml</DependentUpon>
     </Compile>
     <Compile Include="Productos.xaml.cs">
       <DependentUpon>Productos.xaml</DependentUpon>
@@ -131,6 +137,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="DarDeBajaReceta.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="EditarCliente.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -142,6 +152,10 @@
     <Page Include="EditarProducto.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EditarReceta.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="Empleados.xaml">
       <SubType>Designer</SubType>
