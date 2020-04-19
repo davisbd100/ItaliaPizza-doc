@@ -17,9 +17,9 @@ namespace PrototiposItaliaPizza
     /// <summary>
     /// Lógica de interacción para EditarEmpleado.xaml
     /// </summary>
-    public partial class EditarEmpleado : Window
+    public partial class ImprimirReporte : Window
     {
-        public EditarEmpleado()
+        public ImprimirReporte()
         {
             InitializeComponent();
         }
