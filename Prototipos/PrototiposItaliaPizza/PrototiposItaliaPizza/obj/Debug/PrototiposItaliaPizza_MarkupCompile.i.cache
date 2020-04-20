@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\bestr\Desktop\Repositorios\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\App.xaml
-26-1117005163
+28-1603259307
 
-301061143008
+32-1399988193
 15-1629857524
-Clientes.xaml;CancelarPedido.xaml;DarDeBajaCliente.xaml;DarDeBajaEmpleado.xaml;DarDeBajaProducto.xaml;DarDeBajaProductoConReceta.xaml;ImprimirReporte.xaml;EditarPedido.xaml;EditarCliente.xaml;EditarEmpleado.xaml;EditarProducto.xaml;InventarioFinal.xaml;InventarioActual.xaml;ReporteInventario.xaml;Empleados.xaml;ListaPedidoCocinero.xaml;MainWindow.xaml;ListaPedidoVendedor.xaml;Pedido.xaml;PedidosCallCenter.xaml;PedidosMesero.xaml;Productos.xaml;RegistrarCliente.xaml;RegistrarEmpleado.xaml;RegistrarProducto.xaml;Simple Styles.xaml;
+Clientes.xaml;CancelarPedido.xaml;DarDeBajaCliente.xaml;DarDeBajaEmpleado.xaml;DarDeBajaProducto.xaml;DarDeBajaProductoConReceta.xaml;ReporteVentas.xaml;RespaldarInformacion.xaml;ImprimirReporte.xaml;EditarPedido.xaml;EditarCliente.xaml;EditarEmpleado.xaml;EditarProducto.xaml;InventarioFinal.xaml;InventarioActual.xaml;ReporteInventario.xaml;Empleados.xaml;ListaPedidoCocinero.xaml;MainWindow.xaml;ListaPedidoVendedor.xaml;Pedido.xaml;PedidosCallCenter.xaml;PedidosMesero.xaml;Productos.xaml;RegistrarCliente.xaml;RegistrarEmpleado.xaml;RegistrarProducto.xaml;Simple Styles.xaml;
 
-True
+False
 

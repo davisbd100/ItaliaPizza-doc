@@ -81,6 +81,12 @@
     <Compile Include="DarDeBajaProductoConReceta.xaml.cs">
       <DependentUpon>DarDeBajaProductoConReceta.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ReporteVentas.xaml.cs">
+      <DependentUpon>ReporteVentas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RespaldarInformacion.xaml.cs">
+      <DependentUpon>RespaldarInformacion.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ImprimirReporte.xaml.cs">
       <DependentUpon>ImprimirReporte.xaml</DependentUpon>
     </Compile>
@@ -146,6 +152,14 @@
     <Page Include="DarDeBajaProductoConReceta.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReporteVentas.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RespaldarInformacion.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="ImprimirReporte.xaml">
       <Generator>MSBuild:Compile</Generator>
