@@ -81,6 +81,9 @@
     <Compile Include="DarDeBajaProductoConReceta.xaml.cs">
       <DependentUpon>DarDeBajaProductoConReceta.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DarDeBajaReceta.xaml.cs">
+      <DependentUpon>DarDeBajaReceta.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ReporteVentas.xaml.cs">
       <DependentUpon>ReporteVentas.xaml</DependentUpon>
     </Compile>
@@ -102,6 +105,9 @@
     <Compile Include="EditarProducto.xaml.cs">
       <DependentUpon>EditarProducto.xaml</DependentUpon>
     </Compile>
+    <Compile Include="EditarReceta.xaml.cs">
+      <DependentUpon>EditarReceta.xaml</DependentUpon>
+    </Compile>
     <Compile Include="InventarioFinal.xaml.cs">
       <DependentUpon>InventarioFinal.xaml</DependentUpon>
     </Compile>
@@ -120,6 +126,12 @@
     <Compile Include="Productos.xaml.cs">
       <DependentUpon>Productos.xaml</DependentUpon>
     </Compile>
+    <Compile Include="RecetasCocinero.xaml.cs">
+      <DependentUpon>RecetasCocinero.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RecetasGerente.xaml.cs">
+      <DependentUpon>RecetasGerente.xaml</DependentUpon>
+    </Compile>
     <Compile Include="RegistrarCliente.xaml.cs">
       <DependentUpon>RegistrarCliente.xaml</DependentUpon>
     </Compile>
@@ -128,6 +140,12 @@
     </Compile>
     <Compile Include="RegistrarProducto.xaml.cs">
       <DependentUpon>RegistrarProducto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarReceta.xaml.cs">
+      <DependentUpon>RegistrarReceta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarRecetaProductos.xaml.cs">
+      <DependentUpon>RegistrarRecetaProductos.xaml</DependentUpon>
     </Compile>
     <Page Include="Clientes.xaml">
       <SubType>Designer</SubType>
@@ -152,6 +170,10 @@
     <Page Include="DarDeBajaProductoConReceta.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DarDeBajaReceta.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="ReporteVentas.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -180,6 +202,10 @@
     <Page Include="EditarProducto.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EditarReceta.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="InventarioFinal.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -236,6 +262,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="RecetasCocinero.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RecetasGerente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="RegistrarCliente.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -245,6 +279,14 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="RegistrarProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegistrarReceta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegistrarRecetaProductos.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
