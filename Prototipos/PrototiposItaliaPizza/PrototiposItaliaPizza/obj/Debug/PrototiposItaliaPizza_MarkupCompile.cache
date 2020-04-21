@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\Users\bestr\Desktop\Repositorios\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\
+C:\Users\galil\OneDrive\Documentos\GitHub\DOCUMENTACIÓN-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\obj\Debug\
 PrototiposItaliaPizza
 none
 false
 DEBUG;TRACE
-c:\Users\bestr\Desktop\Repositorios\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\App.xaml
-28818210403
+C:\Users\galil\OneDrive\Documentos\GitHub\DOCUMENTACIÓN-ItaliaPizza\ItaliaPizza-doc\Prototipos\PrototiposItaliaPizza\PrototiposItaliaPizza\App.xaml
+341683296831
 
-32-1519278610
-15863486366
-Clientes.xaml;CancelarPedido.xaml;DarDeBajaCliente.xaml;DarDeBajaEmpleado.xaml;DarDeBajaProducto.xaml;DarDeBajaProductoConReceta.xaml;ReporteVentas.xaml;RespaldarInformacion.xaml;ImprimirReporte.xaml;EditarPedido.xaml;EditarCliente.xaml;EditarEmpleado.xaml;EditarProducto.xaml;InventarioFinal.xaml;InventarioActual.xaml;ReporteInventario.xaml;Empleados.xaml;ListaPedidoCocinero.xaml;MainWindow.xaml;ListaPedidoVendedor.xaml;Pedido.xaml;PedidosCallCenter.xaml;PedidosMesero.xaml;Productos.xaml;RegistrarCliente.xaml;RegistrarEmpleado.xaml;RegistrarProducto.xaml;Simple Styles.xaml;
+37-1942213013
+15-855254700
+Clientes.xaml;CancelarPedido.xaml;DarDeBajaCliente.xaml;DarDeBajaEmpleado.xaml;DarDeBajaProducto.xaml;DarDeBajaProductoConReceta.xaml;DarDeBajaReceta.xaml;ReporteVentas.xaml;RespaldarInformacion.xaml;ImprimirReporte.xaml;EditarPedido.xaml;EditarCliente.xaml;EditarEmpleado.xaml;EditarProducto.xaml;EditarReceta.xaml;InventarioFinal.xaml;InventarioActual.xaml;ReporteInventario.xaml;Empleados.xaml;ListaPedidoCocinero.xaml;MainWindow.xaml;ListaPedidoVendedor.xaml;Pedido.xaml;PedidosCallCenter.xaml;PedidosMesero.xaml;Productos.xaml;RecetasCocinero.xaml;RecetasGerente.xaml;RegistrarCliente.xaml;RegistrarEmpleado.xaml;RegistrarProducto.xaml;RegistrarReceta.xaml;RegistrarRecetaProductos.xaml;Simple Styles.xaml;
 
-True
+False
 
